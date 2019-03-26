@@ -1,6 +1,6 @@
 # MovieInfo App
 
-JavaScript/jQuery app that fetches movie data from the OMDb API by Axios
+simple movie library with JavaScript/jQuery app that fetches movie data from the OMDb API by Axios
 
 ## Usage
 
